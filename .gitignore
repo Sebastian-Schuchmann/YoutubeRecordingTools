@@ -122,3 +122,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+OBS-Recording/.DS_Store
+
+*.mp4
+
+.DS_Store
